@@ -15,6 +15,7 @@ for (let posiccamho in canais) {
     texto.className = 'texto'
 
     // Outros atributos
+    img.src = "./curiosamente.jpg"
     a.innerHTML = canais[posiccamho][0]
     p.innerHTML = canais[posiccamho][1]
     foto.style.backgroundImage = "url('" + canais[posiccamho][2] + "')"
