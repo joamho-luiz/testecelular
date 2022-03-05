@@ -59,7 +59,7 @@ section {
     width: 100vw;
     display: grid;
     grid-template-columns: 70vw 15vw 15vw;
-    grid-template-rows: 10vh 35vh 49vh 6vh;
+    grid-template-rows: 10vh 30vh 47vh 13vh;
 }
 
 /* * Header */
@@ -90,8 +90,8 @@ iframe {
     grid-row: 2 /span 1;
     /*Para manter a proporção do YouTube*/
     height: 56vw; 
-    max-height: 40vh;
-    max-width: 71vh;
+    max-height: 30vh;
+    max-width: 54vh;
     width: 100vw;
     justify-self: center;
     /* margin-bottom: 1vh; */
