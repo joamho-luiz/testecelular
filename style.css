@@ -16,7 +16,7 @@ body {
 }
 
 /* Saltos discretos na rolagem */
-html { /* body won't work ¯\_(ツ)_/¯ */
+body { 
     scroll-snap-type: y mandatory;
 }
 section {
